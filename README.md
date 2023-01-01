@@ -1,3 +1,2 @@
-# django1
-First django project
-by danieljke supapupa
+# DjangoProject
+First django project with VCS git
